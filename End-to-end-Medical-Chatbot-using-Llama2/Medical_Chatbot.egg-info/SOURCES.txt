@@ -1,5 +1,5 @@
 LICENSE
-README.md
+
 setup.py
 Medical_Chatbot.egg-info/PKG-INFO
 Medical_Chatbot.egg-info/SOURCES.txt
