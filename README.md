@@ -1,0 +1,4 @@
+
+PINECONE_API_KEY = "82569f2a-2723-4ad7-88c9-e458b400bace"
+PINECONE_API_ENV = "gcp-starter"
+
